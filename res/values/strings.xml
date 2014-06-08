@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">homework314eichmj2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="seattle_weather">http://weather.yahooapis.com/forecastrss?p=98103</string>
+    <string name="api_key">ad803dbffbba6aa9</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+
+</resources>
